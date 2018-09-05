@@ -4,7 +4,7 @@ Plugin Name: JetPack Dev Mode
 Plugin URI: http://serverpress.com/plugins/debug-trace
 Description: Forces JetPack into "dev" mode while working under DesktopServer.
 Author: Dave Jesch
-Version: 1.0
+Version: 1.0.0
 Text Domain: jetpack-dev-mode
 Author URI: http://steveorevo.com/
 */

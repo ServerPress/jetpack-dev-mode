@@ -1,0 +1,16 @@
+{
+    "name": "serverpress/jetpack-dev-mode",
+    "description": "Forces JetPack into 'dev' mode while working under DesktopServer.",
+    "type": "wordpress-plugin",
+    "license": "GPL",
+    "authors":[
+        {
+            "name": "Dave Jesch",
+            "email": "d.jesch@serverpress.com",
+            "homepage": "https://github.com/serverpress"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
